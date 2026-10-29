@@ -47,7 +47,7 @@ const C = {
   rsvp: "",
   // foto latar tiap bagian
   bg: {
-    cover: U("1519741497674-611481863552", 900, 1400),
+    cover: U("1519741497674-611481863552", 1200, 900),
     quote: U("1517456215183-9a2c3a748d0c", 1200, 900),
     foot: U("1502955422409-06e43fd3eff3", 1200, 900),
     date: U("1556302482-70b6e670e6b7", 1200, 900),
@@ -69,7 +69,7 @@ const C = {
     },
   ],
   live: "", // link live streaming (kosongkan jika tidak ada)
-  music: "sound/musik.mp3", // lagu latar: taruh file mp3 di folder sound/
+  music: "sound/Calum-Scott-You-Are-The-Reason-Official-Video.mp3", // lagu latar: taruh file mp3 di folder sound/
   // alamat pengiriman kado (kosongkan {} jika tidak dipakai)
   giftAddress: {
     name: "Emily Rose Carter",
